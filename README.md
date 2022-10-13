@@ -1,0 +1,1 @@
+I practiced creating routes with this projects by creating the server without dependencies with node js.
